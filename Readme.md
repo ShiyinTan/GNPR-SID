@@ -32,6 +32,10 @@ This version provides the **latest and recommended implementation**, featuring:
 
 ---
 
+中文运行步骤（环境、训练、换数据集、换模型）见 [运行指南.md](运行指南.md)。
+
+---
+
 
 ### **Cite Us**
 
